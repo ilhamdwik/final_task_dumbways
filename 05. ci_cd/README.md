@@ -1,3 +1,5 @@
+![00](../assets/SOAL_FINAL_TASK/5.png)
+
 # CI/CD
 
 ## Before you start the task, please read this:

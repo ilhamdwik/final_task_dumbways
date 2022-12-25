@@ -1,3 +1,5 @@
+![00](../assets/SOAL_FINAL_TASK/2.png)
+
 # SSH
 
 ## Before you start the task, please read this:

@@ -1,3 +1,5 @@
+![00](../assets/SOAL_FINAL_TASK/1.png)
+
 # Cloud Computing
 
 ## Before you start the task, please read this:

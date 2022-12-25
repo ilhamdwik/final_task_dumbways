@@ -1,3 +1,5 @@
+![00](../assets/SOAL_FINAL_TASK/7.png)
+
 # Web Server
 
 ## Before you start the task, please read this:
